@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+body{
+    /* font-family: 'Poppins', sans-serif; */
+
+    font-family: sans-serif;
+}
+.header{
+    background-color: #264653;
+    width: 100%;
+    height: 700px;
+   
+}
+.header,
+.latest-news,
+.clinet-say{
+    font-family: 'Poppins', sans-serif; 
+}
+img, svg{
+    color: orange;
+}
+.subscribe{
+    border: 1px solid red;
+}
